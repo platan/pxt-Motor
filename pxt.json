@@ -1,7 +1,7 @@
 {
     "name": "pxt-Motor",
     "version": "0.0.0",
-    "description": "waveshare electronics",
+    "description": "test",
     "license": "MIT",
     "dependencies": {
         "core": "*"
